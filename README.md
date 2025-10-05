@@ -1,1 +1,27 @@
-# my-all-projects
+## Projects Index
+
+This repository is a central place to list all my projects on GitHub profile for easy access and updates.
+
+**Sorted Alphabatically Based on Domains**
+
+## Projects
+
+| Domain                     | Title                                       | Description                                                                                                                   | Link                                                                    |
+| -------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Automation                 | Web Automation With Selenium                | Write Selenium script to scape data from a Dynamic Website                                                                    | [Repo](https://github.com/anaskhaann/Web-Automation-With-Selenium)      |
+| Computer Vision            | Gesture Based Presentation Controller       | Created a Gesture Based Presentation Controller to annotate, point, erase and other features for presentation                 | [Repo](https://github.com/anaskhaann/Gesture-Based-Presentation)        |
+| Computer Vision            | Video Steganography                         | A Python-based steganography tool that hides secret messages in video files using LSB.                                        | [Repo](https://github.com/anaskhaann/video-steganography)               |
+| Data Analysis              | Netflix Price Across Countries in The World | Performed EDA with Pyspark to get the Insights of the Netflix Subscription Across the world                                   | [Repo](https://github.com/anaskhaann/EDA-with-PySpark)                  |
+| Machine Learning           | Sentiment Analysis of Tweets                | Performed Sentiment Analysis for Twitter DataSet using Logistic Regression and Random Forest Classification                   | [Repo](https://github.com/anaskhaann/Sentiment-Analysis)                |
+| Machine Learning + FastAPI | Insurance Premium Prediction                | Project That demonstrate How to Build a Basic FastAPI with Machine learning perspective and deploy it to production           | [Repo](https://github.com/anaskhaann/insurance_prediction_with_fastApi) |
+| Machine Learning + Gen AI  | Mini Splunk                                 | A log classification tool inspired by Splunk, designed to monitor and classify service logs for improved uptime               | [Repo](https://github.com/anaskhaann/mini-splunk)                       |
+| Generative AI              | Chat with SQL Database                      | AI-powered chatbot that allows users to interact with databases using everyday language.                                      | [Repo](https://github.com/anaskhaann/Chat-with-Database-SQL)            |
+| Generative AI              | Chat Tube (RAG)                             | AI-powered tool designed to enhance user interaction with YouTube videos by enabling conversational queries and summarization | [Repo](https://github.com/anaskhaann/chat_tube)                         |
+| Python                     | Youtube Video Manager                       | Application that allows users to manage a list of YouTube videos by storing their titles and durations.                       | [Repo](https://github.com/anaskhaann/youtube-video-manager)             |
+| Python                     | Library Management                          | A simple script for library management while learning python                                                                  | [Repo](https://github.com/anaskhaann/Simple_Library_Management)         |
+| Python                     | KBC                                         | A simple demonstration of Kaun Banega Crorepati Using Python                                                                  | [Repo](https://github.com/anaskhaann/KBC-using-Python)                  |
+| Web                        | Portfolio Website                           | Personal website showcasing projects and Other things                                                                         | [LIVE](https://anaskhaann.vercel.app)                                   |
+| Web                        | Bubble Game                                 | Created a Basic Click to hit bubble game using javascript                                                                     | [Repo](https://github.com/anaskhaann/Bubble-game-using-js)              |
+| Web                        | Rayban Landing Page                         | Created a Landing Page for Rayban Website with Gsap Animations                                                                | [Repo](https://github.com/anaskhaann/Reyban-Landing-Page)               |
+| Web                        | Fullstack Socail Media App                  | Created a Pinterest Clone with all core functionality to create account, upload post and all                                  | [Repo](https://github.com/anaskhaann/Pinterest-Clone)                   |
+| Web                        | Habit Journal                               | Created a Web based habit journal that shows random motivational quotes everyday                                              | [Repo](https://github.com/anaskhaann/Daily-Reflection-Journal)          |

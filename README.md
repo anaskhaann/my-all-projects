@@ -68,10 +68,11 @@ This repository is a central place to list all my projects on GitHub profile for
 
 ---
 
-| Title                        | Description                                                                                                         | Link                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Sentiment Analysis of Tweets | Performed Sentiment Analysis for Twitter DataSet using Logistic Regression and Random Forest Classification         | [Repo](https://github.com/anaskhaann/Sentiment-Analysis)                |
-| Insurance Premium Prediction | Project That demonstrate How to Build a Basic FastAPI with Machine learning perspective and deploy it to production | [Repo](https://github.com/anaskhaann/insurance_prediction_with_fastApi) |
+| Title                         | Description                                                                                                                 | Link                                                                    |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Sentiment Analysis of Tweets  | Performed Sentiment Analysis for Twitter DataSet using Logistic Regression and Random Forest Classification                 | [Repo](https://github.com/anaskhaann/Sentiment-Analysis)                |
+| Insurance Premium Prediction  | Project That demonstrate How to Build a Basic FastAPI with Machine learning perspective and deploy it to production         | [Repo](https://github.com/anaskhaann/insurance_prediction_with_fastApi) |
+| Quora Duplicate Question Pair | Create a ML Model that understand whether the multiple questions are duplicate or not and helps to manage them at one place | [Repo](https://github.com/anaskhaann/quora-questions-pair)              |
 
 ---
 
